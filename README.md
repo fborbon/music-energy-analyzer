@@ -10,15 +10,16 @@ Visualises the **energy arc** of songs over time — showing how a track builds 
 
 ## Table of Contents
 
-1. [What It Produces](#what-it-produces)
-2. [Stress Score](#stress-score)
-3. [Data Processing Pipeline](#data-processing-pipeline)
-4. [Function-Level Data Flow](#function-level-data-flow)
-5. [Scoring Model](#scoring-model)
+1. [What it produces](#what-it-produces)
+2. [Stress score](#stress-score)
+3. [Data processing pipeline](#data-processing-pipeline)
+4. [Function-level data flow](#function-level-data-flow)
+5. [Scoring model](#scoring-model)
 6. [Libraries](#libraries)
 7. [Setup](#setup)
 8. [Usage](#usage)
-9. [Default Playlist](#default-playlist)
+9. [Default playlist](#default-playlist)
+10. [Auditing](#auditing)
 
 ---
 
