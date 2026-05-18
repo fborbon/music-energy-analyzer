@@ -1,4 +1,4 @@
-# Music Energy & Stress Analysis
+# Music Energy Analyzer
 
 Visualises the **energy arc** of songs over time — showing how a track builds from its intro, peaks at the chorus, and winds down at the outro. Given a YouTube playlist, the notebook downloads audio as MP3, extracts three acoustic features per frame (RMS energy, spectral centroid, onset strength), blends them into a weighted stress score, smooths it with a rolling average, and produces three families of charts: per-song 3-panel breakdowns, a full-playlist overlay, and a top-3-vs-bottom-3 intensity ranking. The pipeline is deterministic, requires no AI models, and caches feature arrays to disk so re-runs are instant.
 
